@@ -1,3 +1,6 @@
 [submodule "fixtures/curry"]
-	path = 0422420473
+	path = fixtures/curry
 	url = git@github.com:dominictarr/curry.git
+[submodule "curry_tests"]
+	path = fixtures/curry_tests
+	url = git@github.com:dominictarr/curry_tests.git
