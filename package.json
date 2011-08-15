@@ -1,0 +1,11 @@
+{ "name": "installer_tests"
+, "version": "0.0.0"
+, "description": "tests for installer (npm/git wrapper)"
+, "homepage": "http://github.com/dominictarr/installer_tests"
+, "repository": 
+  { "type": "git"
+  , "url": "https://github.com/dominictarr/installer_tests.git" }
+, "dependencies": {}
+, "devDependencies": {}
+, "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)"
+, "scripts": { "test": "meta-test test/*.js" } }

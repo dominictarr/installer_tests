@@ -1,0 +1,3 @@
+[submodule "fixtures/curry"]
+	path = 0422420473
+	url = git@github.com:dominictarr/curry.git
